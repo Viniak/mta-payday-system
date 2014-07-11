@@ -1,0 +1,4 @@
+<meta>
+   <info author="VINI" description="Simple PayDay System" type="script" />
+   <script src="payday_c.lua" type="client" />
+</meta>
